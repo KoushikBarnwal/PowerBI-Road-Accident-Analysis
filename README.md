@@ -4,7 +4,9 @@ This dashboard showcases my expertise in Power BI fundamentals, such as creating
 
 Additionally, I demonstrate my skills in formatting, cleaning, and manipulating data using the Power Query Editor and working with different relationships in Power BI
 
--Requirements :
+Also performed required SQL queries for more clarifications and logic behind the analysis.
+
+- Requirements :
 Clients want to create a Road Accident Dashboard for the years 2021 and 2022 so that they can have insight into the below requirements-
 
  - Primary KPI - Total Casualties and Total Accident values for the Current Year and YoY growth
