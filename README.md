@@ -7,10 +7,10 @@ Additionally, I demonstrate my skills in formatting, cleaning, and manipulating 
 -Requirements :
 Clients want to create a Road Accident Dashboard for the years 2021 and 2022 so that they can have insight into the below requirements-
 
- -Primary KPI - Total Casualties and Total Accident values for the Current Year and YoY growth
- -Primary KPIs - Total Casualties by Accident Severity for the Current Year and YoY growth
- -Secondary KPIs - Total Casualties with respect to vehicle type for the Current Year
- -Monthly trend showing comparison of casualties for the Current Year and the Previous Year
- -Casualties by Road Type for the Current year
- -Current Year Casualties by Area/ Location & by Day/Night
- -Total Casualties and Total Accidents by Location
+ - Primary KPI - Total Casualties and Total Accident values for the Current Year and YoY growth
+ - Primary KPIs - Total Casualties by Accident Severity for the Current Year and YoY growth
+ - Secondary KPIs - Total Casualties with respect to vehicle type for the Current Year
+ - Monthly trend showing comparison of casualties for the Current Year and the Previous Year
+ - Casualties by Road Type for the Current year
+ - Current Year Casualties by Area/ Location & by Day/Night
+ - Total Casualties and Total Accidents by Location
